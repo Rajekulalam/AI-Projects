@@ -31,4 +31,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Shaikh Soyail**
+**Rajekul Alam**
